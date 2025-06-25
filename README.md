@@ -6,13 +6,21 @@ This repository contains my end-to-end supply chain optimization work for DataCo
 
 📂 **Repository Structure**
 ├── DataCo Transformation.ipynb       # Data cleaning & preprocessing steps
+
 ├── Hypothesis_BigData.ipynb         # Exploratory data analysis and hypothesis testing
+
 ├── Modelling.ipynb                  # Baseline models and evaluation metrics
+
 ├── RF_DT_XGBoost.ipynb              # Random Forest, Decision Tree & XGBoost implementations
+
 ├── SVM_Model.ipynb                  # Support Vector Machine regression/classification
+
 ├── DataCoSupplyChainDataset.csv     # Raw supply chain dataset
+
 ├── DescriptionDataCoSupplyChain.csv # Metadata & feature descriptions
+
 ├── tokenized_access_logs.csv        # Tokenized log data used for feature engineering
+
 └── README.md                        # Project overview and instructions (this file)
 
 📝 **Project Overview**
