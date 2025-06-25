@@ -5,6 +5,7 @@
 This repository contains my end-to-end supply chain optimization work for DataCo, where the goal was to forecast whether shipments would be delivered on time or late, and to surface insights through interactive dashboards.
 
 📂 **Repository Structure**
+
 ├── DataCo Transformation.ipynb       # Data cleaning & preprocessing steps
 
 ├── Hypothesis_BigData.ipynb         # Exploratory data analysis and hypothesis testing
